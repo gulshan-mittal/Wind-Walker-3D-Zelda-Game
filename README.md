@@ -1,6 +1,6 @@
 
 
-Gulshan Kumar -20161082
+Gulshan Kumar
 =================
 
 3D Game Legend of Zelda in Opengl(GLFW)
